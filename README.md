@@ -45,7 +45,7 @@ Add these screenshots:
 
 ![t-SNE Visualization](tsne_plot.png)
 ![Elbow Curve](elbow.png)
-![Silhouette Scores](silhouette.png)
+
 
 🚀 Tech Stack
 
