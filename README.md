@@ -44,6 +44,7 @@ Business Interpretation of Segments
 Add these screenshots:
 
 ![t-SNE Visualization](t-SNE_Visualization.png)
+
 ![Elbow Curve](elbow_Curve.png)
 
 
